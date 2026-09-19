@@ -1,41 +1,18 @@
-# Project Title (Update)
+# Hello World (Language Edition)
 
-Add a description of your project here.
+I've done the hello world program so many times that I decided to spice things up a little bit. I asked AI to make a python list of the original phrase "Hello, World!" in one hundred different languages. 
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. Install the latest version of python
+2. Open your terminal to the directory where the file is stored
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
-
-## Development Environment
-
-To recreate the development environment, you need the following software and/or libraries with the specified versions:
-
-* First thing here
-*
-*
+1. Run 'py helloworld.py'
 
 ## Useful Websites to Learn More
 
-I found these websites useful in developing this software:
-
-* [Website Title](Link)
-*
-*
-
-## Future Work
-
-The following items I plan to fix, improve, and/or add to this project in the future:
-
-* [ ] First thing here
-* [ ]
-* [ ]
+* [Latest Python version download](https://www.python.org/downloads/)
